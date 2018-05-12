@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/781
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31015#The-Poetical-Works-of-Elizabeth-Barrett-Browning-Volume-IV
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2010-01-18'
 gutenberg_type: Text
